@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  body{
+      color: white;
+      background: black;
+  }
+
+form{  
+    margin: 7rem 0 0rem 25rem;
+ }
+
+textarea{
+    padding: 1rem;
+    border-radius: 2rem;
+ }
+
+.bg{
+    margin: 3rem 0 0rem 0rem;
+    text-align: center;
+
+}
+
+.btn{
+    align-content: center;
+    justify-content: center;
+}
+
+.btn button{
+    margin-right: 2rem;
+}
+
+#notes{
+    margin-left:19rem;
+    padding: 3rem;
+    width: min(90% ,72rem);
+}
+
+.text{
+    text-align: center;
+}
+
+p{
+    padding: 7px;
+    margin-bottom: 1rem;
+}
